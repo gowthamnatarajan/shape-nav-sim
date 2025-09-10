@@ -1,0 +1,15 @@
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Python envs (future-proofing)
+.venv/
+__pycache__/
+*.pyc
+
+# Build / artifacts (future)
+/build/
+/dist/
+/checkpoints/
+/runs/
