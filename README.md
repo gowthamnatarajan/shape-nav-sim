@@ -15,8 +15,5 @@ Tiny CNN to detect shapes; ROS2 node to steer a diff-drive robot in simulation; 
 - `.github/` issue/PR templates and CI placeholder
 - `meta/` labels, milestones, release checklist
 
-## Contributing
-See [CONTRIBUTING.md](CONTRIBUTING.md).
-
 ## License
 MIT — see [LICENSE](LICENSE).
