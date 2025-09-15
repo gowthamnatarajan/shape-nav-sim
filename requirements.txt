@@ -1,0 +1,12 @@
+# Core dependencies
+torch
+torchvision
+opencv-contrib-python
+caer
+matplotlib
+numpy
+
+# Jupyter support
+jupyter
+notebook
+ipykernel
